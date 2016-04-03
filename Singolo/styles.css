@@ -55,6 +55,11 @@ body {
     max-width: 950px;
 }
 
+.pink_strip {
+    height: 6px;
+    background-color: #ea676b;
+}
+
 .services {
     font-size: 1.35em;
     font-weight: bold;
@@ -96,8 +101,9 @@ body {
     font-size: smaller;
 }
 
+
 .portfolio {
-    height: 100px;
+    height: 600px;
     background-color: #2d303a;
     margin-top: 280px;
 }
